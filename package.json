@@ -1,0 +1,50 @@
+{
+  "_args": [
+    [
+      "@slayermx/lol@1.0.0",
+      "C:\\Users\\Ramon\\Documents\\personal_projects\\lol-team-analytics-web-app"
+    ]
+  ],
+  "_from": "@slayermx/lol@1.0.0",
+  "_id": "@slayermx/lol@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-8/Z5FHzgMwYXSRba+lcw+IsB8NkATIW59n5TGuIY8/EQrbINVp3iYvcjCbuEZuzMWFZY+241p2/r5pqSjOgQyQ==",
+  "_location": "/@slayermx/lol",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@slayermx/lol@1.0.0",
+    "name": "@slayermx/lol",
+    "escapedName": "@slayermx%2flol",
+    "scope": "@slayermx",
+    "rawSpec": "1.0.0",
+    "saveSpec": null,
+    "fetchSpec": "1.0.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@slayermx/lol/-/lol-1.0.0.tgz",
+  "_spec": "1.0.0",
+  "_where": "C:\\Users\\Ramon\\Documents\\personal_projects\\lol-team-analytics-web-app",
+  "author": "",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "cheerio": "^0.22.0",
+    "express": "^4.14.0",
+    "leagueapi": "^0.4.21",
+    "relaxed-json": "^1.0.0",
+    "request": "^2.75.0",
+    "request-promise": "^4.1.1"
+  },
+  "description": "",
+  "license": "ISC",
+  "main": "server.js",
+  "name": "@slayermx/lol",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.1"
+}
